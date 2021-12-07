@@ -1,5 +1,5 @@
 # About the data on this repo
-All the data contained here was already transformed and filtered in the [Alvaro's repository](https://github.com/alvarofpp/dataset-flights-brazil/blob/main/transform_to_graphml.py). The scripts
+All the data contained here was already transformed and filtered in the [Alvaro's repository](https://github.com/alvarofpp/dataset-flights-brazil). The scripts
 
     extract.py
     transform_to_airports_csv.py
